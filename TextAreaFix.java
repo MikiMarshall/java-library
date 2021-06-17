@@ -1,9 +1,16 @@
 /*
- * Miki's Personal Utility Classes for Java - Reusable classes, Java class
- *         wrappers to add/fix features, and other handy bits I can reuse.
+ * Mikibits Utility Classes (Java)
+ * Reusable classes and class wrappers to add/fix features.
+ * ------------------------------------------------------------------
+ * TextAreaFix - A small wrapper for JavaFX TextArea that replaces
+ *               (odd) default TAB behavior with something more
+ *               intuitive.
+ * ------------------------------------------------------------------
+ * Author:      Miki Marshall (mikibits.com)
+ * Created:     2018.02.17
+ * Version:     2019.12.30
  *
- *         Created by:  Miki R. Marshall
- *         Tested with: Java 9, 10
+ * Notes:
  */
 
 package mikilib;
