@@ -4,6 +4,8 @@ Reusable Java utility classes, functions, and class wrappers I created while bui
 
 Most of these came from my Cardz application, an infinite scrolling desktop of draggable index cards, for organizing notes and ideas for writers. The majority of the code that makes up that application resides in this library, since I designed as much of it as possible to be reusable in other grid-based applications--everything from grid menus and launchers to card games. 
 
+<img src="https://github.com/Mikibits/java-library/blob/master/screenshot.png" width=500 height=auto style="float:right;">
+
 This collection also includes other classes that help simplify commonly used frameworks and practices, such as maintaining config files, SQLite databases, and wrappers to fix weird (nonintuitive) methods in Java's own libraries.
 
 For example:
